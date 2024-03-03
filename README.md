@@ -14,3 +14,6 @@
 
 ### Cloud Technologies
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
+
+### More Tools...
+[![My Skills](https://skillicons.dev/icons?i=git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman)](https://skillicons.dev)
