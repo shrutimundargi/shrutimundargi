@@ -2,6 +2,7 @@
 
 
 👩‍🎓 I’m a Grad student at Northeastern University (May 2024)
+
 👩‍💻 I’ve two years of professional experience in the field of data science and machine learning
 
 ## Tech Stack
