@@ -7,5 +7,10 @@
 ## Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,r,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,r,cs)](https://skillicons.dev)
 
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+### Cloud Technologies
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
