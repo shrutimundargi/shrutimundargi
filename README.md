@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ### Cloud Technologies
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,kafka)](https://skillicons.dev)
 
 ### More Tools...
 [![My Skills](https://skillicons.dev/icons?i=git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman)](https://skillicons.dev)
