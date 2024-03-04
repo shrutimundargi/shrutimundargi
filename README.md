@@ -20,5 +20,5 @@
 [![My Skills](https://skillicons.dev/icons?i=git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman)]()
 
 
-#### Connect with me
+#### Connect with me!
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shruti-mundargi/)
