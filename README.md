@@ -18,3 +18,7 @@
 
 ### More Tools...
 [![My Skills](https://skillicons.dev/icons?i=git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman)](https://skillicons.dev)
+
+
+#### Connect with me
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
