@@ -8,16 +8,16 @@
 ## Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,js,r,cs)]
+[![My Skills](https://skillicons.dev/icons?i=py,js,r,cs)]()
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)]
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)]()
 
 ### Cloud Technologies
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,kafka)]
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,kafka)]()
 
 ### More Tools...
-[![My Skills](https://skillicons.dev/icons?i=git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman)]
+[![My Skills](https://skillicons.dev/icons?i=git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman)]()
 
 
 #### Connect with me
