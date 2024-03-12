@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,kafka)]()
 
 ### More Tools...
-[![My Skills](https://skillicons.dev/icons?i=git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman,pinecone)]()
+[![My Skills](https://skillicons.dev/icons?i=git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman)]()
 
 
 #### Connect with me!
