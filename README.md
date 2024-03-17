@@ -1,6 +1,6 @@
-<div id="header" align="center">
-### Hi there, I'm Shruti Mundargi 👋 
-</div>
+<h1 align="center">
+Hi there, I'm Shruti Mundargi 👋 
+</h1>
 
 
 <div id="header" align="center">
