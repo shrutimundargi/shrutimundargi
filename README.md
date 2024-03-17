@@ -1,7 +1,7 @@
 ### Hi there, I'm Shruti Mundargi 👋
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHN4YWxiaXE3NjBmZWZ1dGllYmU4dmplczQwa3FsNzRhZTllN2FrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
 </div>
 
 
