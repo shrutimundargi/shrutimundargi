@@ -25,6 +25,10 @@ Hi there, I'm Shruti Mundargi 👋
 ### More Tools...
 [![My Skills](https://skillicons.dev/icons?i=git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman)]()
 
+## ✍️: Articles
+
+1. [Using Deep Neural Network for Recommendation Systems](https://medium.com/@mundargishruti/using-deep-neural-network-for-recommendation-systems-07bd356f0f29)
+2. [SessionSync: A QnA bot for therapists to revisit client history in seconds](https://medium.com/@mundargishruti/sessionsync-a-qna-bot-for-therapists-to-revisit-client-history-in-seconds-de57149ce142)
 
 #### Connect with me!
 <div id="badges">
