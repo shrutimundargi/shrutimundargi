@@ -1,6 +1,8 @@
 ### Hi there, I'm Shruti Mundargi 👋
 
-![Untitled design](https://github.com/shrutimundargi/shrutimundargi/assets/48567754/77baba20-a075-4a1f-ac35-bb5487534bd1)
+<div id="header" align="center">
+  <img src="![Untitled design](https://github.com/shrutimundargi/shrutimundargi/assets/48567754/77baba20-a075-4a1f-ac35-bb5487534bd1)" width="100"/>
+</div>
 
 
 👩‍🎓 I’m a Grad student at Northeastern University (May 2024)
