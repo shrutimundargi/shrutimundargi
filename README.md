@@ -6,7 +6,7 @@ Hi there, I'm Shruti Mundargi 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHN4YWxiaXE3NjBmZWZ1dGllYmU4dmplczQwa3FsNzRhZTllN2FrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" />
 
-👩‍🎓 I’m a Grad student at Northeastern University (May 2024)
+👩‍🎓 I’m an Information Systems Grad student at Northeastern University, Boston (May 2024)
 
 👩‍💻 I’ve two years of professional experience in the field of data science and machine learning
 </div>
