@@ -8,27 +8,22 @@ Hi there, I'm Shruti Mundargi 👋
 
 👩‍🎓 I’m an Information Systems Grad student at Northeastern University, Boston (May 2024)
 
-👩‍💻 I’ve two years of professional experience in the field of data science and machine learning
+💼 I’ve two years of professional experience in the field of data science and machine learning
 </div>
 
-## Tech Stack
+## 👩‍💻 Tech Stack
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,js,r,cs)]()
+[![My Skills](https://skillicons.dev/icons?i=py,js,r,cs,mysql,mongodb,aws,gcp,azure,kafka,git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman)]()
 
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)]()
-
-### Cloud Technologies
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,kafka)]()
-
-### More Tools...
-[![My Skills](https://skillicons.dev/icons?i=git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman)]()
-
-## ✍️: Articles
+## ✍️ Articles
 
 1. [Using Deep Neural Network for Recommendation Systems](https://medium.com/@mundargishruti/using-deep-neural-network-for-recommendation-systems-07bd356f0f29)
 2. [SessionSync: A QnA bot for therapists to revisit client history in seconds](https://medium.com/@mundargishruti/sessionsync-a-qna-bot-for-therapists-to-revisit-client-history-in-seconds-de57149ce142)
+
+## 📖 Publications
+
+1. [Image Captioning using Attention Mechanism with Resnet, VGG and Inception Models](https://www.irjet.net/archives/V7/i9/IRJET-V7I9667.pdf)
+2. [Fashion Advisory System-A Complementary Apparel Recommendation System using VGG Model](https://www.jetir.org/papers/JETIR2005276.pdf)
 
 #### Connect with me!
 <div id="badges">
