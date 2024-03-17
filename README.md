@@ -32,5 +32,9 @@
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=shrutimundargi&style=flat-square&color=blue" alt=""/>
+
+
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=shrutimundargi&style=flat-square&color=blue" alt=""/> 
+</div>
 
