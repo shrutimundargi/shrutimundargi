@@ -15,6 +15,15 @@ Hi there, I'm Shruti Mundargi 👋
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,r,cs,mysql,mongodb,aws,gcp,azure,kafka,git,tensorflow,pytorch,docker,flask,fastapi,heroku,postman)]()
 
+## 🔥 Projects
+
+1. [Shakespearify - Comic Generator AI](https://github.com/shrutimundargi/comic-generation-bot)
+2. [LocateSmartAI](https://github.com/shrutimundargi/LocateSmartAI)
+3. [Music Recommendation System](https://github.com/shrutimundargi/music-recommendation-system)
+4. [SESSIONSYNC: a session history chatbot tailored for therapist](https://github.com/shrutimundargi/SessionSync)
+5. [Neural Collabarative Filtering](https://github.com/shrutimundargi/Neural-Collabarative-Filtering)
+6. [Secure Document Handler](https://github.com/shrutimundargi/secure-document-handler)
+
 ## ✍️ Articles
 
 1. [Using Deep Neural Network for Recommendation Systems](https://medium.com/@mundargishruti/using-deep-neural-network-for-recommendation-systems-07bd356f0f29)
