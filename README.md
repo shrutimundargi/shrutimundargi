@@ -18,11 +18,12 @@ Hi there, I'm Shruti Mundargi 👋
 ## 🔥 Projects
 
 1. [Shakespearify - Comic Generator AI](https://github.com/shrutimundargi/comic-generation-bot)
-2. [LocateSmartAI](https://github.com/shrutimundargi/LocateSmartAI)
-3. [Neural Collabarative Filtering](https://github.com/shrutimundargi/Neural-Collabarative-Filtering)
-4. [SESSIONSYNC: a session history chatbot tailored for therapist](https://github.com/shrutimundargi/SessionSync)
-5. [Music Recommendation System](https://github.com/shrutimundargi/music-recommendation-system)
-6. [Secure Document Handler](https://github.com/shrutimundargi/secure-document-handler)
+2. [MedShop AI](https://github.com/shrutimundargi/MedshopAI)
+3. [LocateSmartAI](https://github.com/shrutimundargi/LocateSmartAI)
+4. [Neural Collabarative Filtering](https://github.com/shrutimundargi/Neural-Collabarative-Filtering)
+5. [SESSIONSYNC: a session history chatbot tailored for therapist](https://github.com/shrutimundargi/SessionSync)
+6. [Music Recommendation System](https://github.com/shrutimundargi/music-recommendation-system)
+7. [Secure Document Handler](https://github.com/shrutimundargi/secure-document-handler)
 
 ## ✍️ Articles
 
