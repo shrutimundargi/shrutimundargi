@@ -13,7 +13,7 @@ Hi there, I'm Shruti Mundargi 👋
 
 ## 👩‍💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,snowflake,bigquery,dbt,pandas,apacheairflow,tensorflow,pytorch,mongodb,aws,gcp,azure,kafka,git,docker,flask,fastapi,heroku,postman)]()
+[![My Skills](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)]()
 
 ## 🔥 Projects
 
