@@ -13,7 +13,7 @@ Hi there, I'm Shruti Mundargi 👋
 
 ## 👩‍💻 Tech Stack
 
-[![My Skills](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png)]()
+[![My Skills](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png,https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png,https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png,https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png,https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png)]()
 
 ## 🔥 Projects
 
